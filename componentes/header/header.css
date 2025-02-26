@@ -8,8 +8,8 @@ header {
 nav {
     display: flex;
     align-items: center;
-    position: relative;
-    left: 40rem;
+    position: absolute;
+    left: 10rem;
 }
 
 button {
